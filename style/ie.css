@@ -1,0 +1,8 @@
+
+/* For IE 6/7 (trigger hasLayout) */
+.clearfix { zoom:1; }
+.etapas b, .radius, .listas ul li a, .box-orcar .bg, .box-orcar .bt-send, .box, .tit, .list-idioma li a, .list-idioma .ico,
+.box-inside .box-center span{
+		behavior: url("PIE.htc");
+}
+
