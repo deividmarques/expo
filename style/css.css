@@ -682,25 +682,37 @@ label{
 	width: 1002px;
 }
 .box-inside .fr{
-	background: url(images/bg-price.png) no-repeat right 0;
+	background: url(images/bg-price.png) no-repeat 0 0;
 	height: 185px;
 	margin: 0 10px 0 20px;
-	width: 325px;
+	width: 345px;
 }
 .box-inside .fr ul li{
 	float: left;
     font-weight: bold;
-    margin: 0 2px 12px 19px;
-    width: 140px;
+    margin: 10px 0 0 15px;
+    width: 150px;
 }
 .box-inside .fr span{ display: block; line-height: 20px;}
 .box-inside .city{font-size: 18px;}
 .box-inside .local{font-size: 12px;}
-.box-inside .subdivision{font-size: 24px;}
-.box-inside .price{color: #b3b428;font-size: 13px;}
+.box-inside .subdivision{font-size: 13px;}
+.box-inside .price{color: #fbad18;font-size: 18px;}
+.box-inside .price span{font-size: 22px; display: inline;}
+.box-inside .fr ul li.others{
+	margin: 15px 0 0 15px;
+	width: 300px;
+}
 .box-inside .fl{
 	margin: 58px 30px 0 0;
 	width: 240px;
+}
+.details small{
+	display: block;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 15px;
+	margin: 5px 0 0;
 }
 .box-inside .fl .clearfix img{
 	float: left;
@@ -845,8 +857,3 @@ label{
 .redes a.skype{ background-position: -332px -291px;}
 .redes a.msn{ background-position: -396px -291px;}
 .redes a.blog{ background-position: -462px -291px;}
-.redes a:hover{
-	transform: rotate(360deg);
-	-moz-transform: rotate(360deg);
-	-o-transform: rotate(360deg);
-}

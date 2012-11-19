@@ -31,29 +31,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Cape Town</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Cape Town</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Cape Town</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Cape Town</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -74,7 +68,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-africa.png" alt="África" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -86,29 +80,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Melbourne</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Melbourne</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Sydney</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Sydney</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -129,7 +117,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-australia.png" alt="Austrália" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -141,29 +129,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Vancouver</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Vancouver</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Whistler</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Toronto</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -184,7 +166,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-canada.png" alt="Canadá" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -195,29 +177,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Nova York</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Denver</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">San Diego</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Nova York</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -238,7 +214,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-eua.png" alt="EUA" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -249,29 +225,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Londres</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">10x R$ 111</span>
-                                                <span class="price">ou C$ 1.111,00</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Liverpool</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">10x R$ 111</span>
-                                                <span class="price">ou C$ 1.111,00</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Londres</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">10x R$ 111</span>
-                                                <span class="price">ou C$ 1.111,00</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Liverpool</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">10x R$ 111</span>
-                                                <span class="price">ou C$ 1.111,00</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -292,7 +262,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-inglaterra.png" alt="Inglaterra" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -304,29 +274,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Auckland</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Auckland</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Auckland</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Auckland</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -347,7 +311,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-zelandia.png" alt="Nova Zelândia" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -359,29 +323,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Dublin</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Dublin</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Galway</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Bray</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -402,7 +360,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-irlanda.png" alt="Irlanda" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -414,29 +372,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Edinburgh</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Glasgow</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Glasgow</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Edinburgh</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -457,7 +409,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-escocia.png" alt="Escócia" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -469,29 +421,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Londres</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">10x R$ 111</span>
-                                                <span class="price">ou C$ 1.111,00</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Liverpool</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">10x R$ 111</span>
-                                                <span class="price">ou C$ 1.111,00</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Londres</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">10x R$ 111</span>
-                                                <span class="price">ou C$ 1.111,00</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Liverpool</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">10x R$ 111</span>
-                                                <span class="price">ou C$ 1.111,00</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -512,7 +458,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-malta.png" alt="Malta" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -544,27 +490,21 @@
                                     	<ul>
                                         	<li>
                                             	<span class="city">Buenos Aires</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="local">Expanish</span>
+                                                
+                                                <span class="price">10x <span>R$ 166,10</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.510</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Buenos Aires</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                            	<small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Buenos Aires</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
-                                            <li>
-                                            	<span class="city">Buenos Aires</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                            	<span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -584,7 +524,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-espanhol-argentina.png" alt="Argentina" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -596,29 +536,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Montevideo</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Montevideo</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Buenos Aires</span>
+                                                <span class="local">Expanish</span>
+                                                
+                                                <span class="price">10x <span>R$ 166,10</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.510</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Montevideo</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Montevideo</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -638,7 +572,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-espanhol-uruguai.png" alt="Uruguai" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div> 
                                 
@@ -649,29 +583,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Santiago</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Viña del Mar</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Puerto Varas</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Santiago</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -691,7 +619,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-espanhol-chile.png" alt="Chile" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -702,29 +630,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Madri</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Madri</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Barcelona</span>
+                                                <span class="local">Enforex</span>
+                                                
+                                                <span class="price">10x <span>R$ 166,10</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.510</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Barcelona</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 25 horas/sem.</small>
+                                                <small>Casa família, meia pensão</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Barcelona</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -744,7 +666,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-espanhol-espanha.png" alt="Espanha" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>                               
                                 
@@ -769,29 +691,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Berlim</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Berlim</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Berlim</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Berlim</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -811,7 +727,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-outros-alemanha.png" alt="Alemanha" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -825,29 +741,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Vancouver</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Vancouver</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Whistler</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Toronto</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -868,7 +778,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-ingles-canada.png" alt="Canadá" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -879,29 +789,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Pequim</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Pequim</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Pequim</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Pequim</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -922,7 +826,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-outros-china.png" alt="China" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -934,29 +838,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Paris</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Paris</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Paris</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Paris</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -977,7 +875,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-franca.png" alt="França" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -988,29 +886,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Roma</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Florença</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Roma</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Florença</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -1031,7 +923,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-italia.png" alt="Itália" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>
                                 
@@ -1042,29 +934,23 @@
                                     
                                     <div class="fr">
                                     	<ul>
-                                        	<li>
-                                            	<span class="city">Vancouver</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
-                                            </li>
                                             <li>
-                                            	<span class="city">Vancouver</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                                <span class="city">Santiago</span>
+                                                <span class="local">ECELA</span>
+                                                
+                                                <span class="price">10x <span>R$ 187,22</span></span>
+                                                <span class="subdivision">ou à vista AR$ 1.702</span>
                                             </li>
-                                            <li>
-                                            	<span class="city">Whistler</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="details">
+                                                <small>Curso de 20 horas/sem.</small>
+                                                <small>Residência estudantil</small>
+                                                <small>Tour pela cidade, material,
+transfer e taxas de
+matrícula e acomodação</small>
                                             </li>
-                                            <li>
-                                            	<span class="city">Toronto</span>
-                                                <span class="local">International House</span>
-                                                <span class="subdivision">C$ 1.836,00</span>
-                                                <span class="price">ou 10x de C$ 183,60</span>
+                                            <li class="others">
+                                                <span class="price">Outros destinos</span>
+                                                <small>Bariloche, Córdoba, Mendoza</small>
                                             </li>
                                         </ul>
                                     </div>
@@ -1085,7 +971,7 @@
                                     <div class="box-center">
                                    		<img src="images/img-suica.png" alt="Suiça" />
                                         <span>4 Semanas de curso + Acomodação</span>
-                                        <small>Preço válido até Fevereiro/2012</small>
+                                        <small>Preço válido até Dezembro/2012</small>
                                     </div>
                                 </div>                              
                                 
